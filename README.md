@@ -1,6 +1,6 @@
 # vue-emit-mastery
 
-## 構成
+## Structure
 
 ```
 src/
